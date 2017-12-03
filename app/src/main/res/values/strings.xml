@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizer</string>
+    <string name="image_view_user_profile">image view user profile</string>
+    <string name="input_username">Input Username</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+</resources>
